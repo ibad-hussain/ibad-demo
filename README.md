@@ -11,3 +11,6 @@ Write a program to pronounce list of names using win32 API (pywin32 library). If
         &emsp;&emsp; Shoutout to Ahmed
 <br>
         &emsp;&emsp; Shoutout to Arman
+<br>
+Go to: `https://newsapi.org/` and explore the various options to build you application.
+
