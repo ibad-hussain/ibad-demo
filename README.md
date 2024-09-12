@@ -1,6 +1,13 @@
-# ibad-demo
-This is my first Git repository.
+# EXERCISE 9 - SHOUTOUTS TO EVERYONE
+## Problem Statement
+Write a program to pronounce list of names using win32 API (pywin32 library). If you are given a list l as follows:
 <br>
-Let's connect with people.
+    l = ["Ali", "Ahmed", "Arman"]
 <br>
-ibad hussain connected.
+    Your program should pronouce:
+<br>
+        Shoutout to Ali
+<br>
+        Shoutout to Ahmed
+<br>
+        Shoutout to Arman
